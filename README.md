@@ -15,7 +15,7 @@ java 的 Spring是一个很火的框架,Spring boot 这个也不用说了，Dock
 
 ### 整个Spring boot的项目
 我这边用的是IDEA 创建的
-![create]('https://raw.githubusercontent.com/beyondblog/spring-boot-docker-demo/master/img/create.png')
+![create](https://raw.githubusercontent.com/beyondblog/spring-boot-docker-demo/master/img/create.png)
 
 ```
 ➜  sping-boot-docker  tree
